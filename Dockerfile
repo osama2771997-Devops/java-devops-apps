@@ -1,18 +1,21 @@
-# 1 base image (OS)
-FROM openjdk:17-jdk-alpine
+# Base image (os)
+FROM openjdk:28-ea-22-oraclelinux10
 
-# 2 working directory for the app
+# Working directory for the app
 WORKDIR /app
 
-# 3 copy the code from your HOST to your Container (working dir)
+# Copy the code from your host to your container
+
 COPY src/Main.java Main.java
+
 COPY tips.txt tips.txt
 
-# 4 Run the commands to install libs or to compile code
+# Run the command
+
 RUN javac Main.java
 
-# 5 Expose the port
+
 EXPOSE 8080
 
-# 6 Serve the app / Keep it running
-CMD ["java", "Main"]
+# Serve the app and keep it running.
+CMD ["java","Main"]
