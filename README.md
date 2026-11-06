@@ -11,7 +11,7 @@ The application is intentionally simple and has:
 
 It is designed to be easy to run locally and easy to containerize.
 
----
+----
 
 ## How the Application Works
 
