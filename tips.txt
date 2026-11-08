@@ -1,0 +1,17 @@
+Osama is currently learning DevOps Fundamentals.
+Osama is learning Linux Administration and Linux Commands.
+Osama is learning Git and GitHub for Version Control.
+Osama is learning Docker and Containerization.
+Osama is exploring CI/CD Pipelines and Automation.
+Osama is learning Bash Scripting for task automation.
+Osama is exploring AWS Cloud Computing and its services.
+Osama is practicing deploying applications on AWS EC2.
+Osama is learning how to build and manage Docker images.
+Osama is understanding how to automate software deployments.
+Osama is exploring Infrastructure as Code (IaC).
+Osama is learning application monitoring and troubleshooting.
+Osama is continuously improving his problem-solving skills.
+
+GOAL:
+Osama aims to become a skilled DevOps Engineer through
+continuous learning, hands-on practice, and real-world projects.
